@@ -25,9 +25,9 @@
         "chokidar": "^3.6.0",
         "command-line-args": "^5.2.1",
         "jsonc-parser": "^3.3.1",
-        "smol-toml": "^1.4.2",
+        "smol-toml": "^1.8.0",
         "source-map-support": "^0.5.21",
-        "tmp": "^0.2.5",
+        "tmp": "^0.2.7",
         "vscode-jsonrpc": "^9.0.0-next.8",
         "vscode-languageserver": "^10.0.0-next.13",
         "vscode-languageserver-protocol": "^3.17.6-next.13",
@@ -50,7 +50,7 @@
         "ts-jest": "^29.4.5",
         "ts-loader": "^9.5.4",
         "typescript": "~5.5.4",
-        "webpack": "^5.102.1",
+        "webpack": "^5.110.3",
         "webpack-cli": "^5.1.4",
         "word-wrap": "1.2.5"
     }
